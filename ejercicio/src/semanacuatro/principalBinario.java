@@ -2,7 +2,7 @@ package semanacuatro;
 
 import java.util.stream.IntStream;
 
-public class principalBinario {
+public class principalbinario {
     public static void main(String[] args) {
         int[] values = IntStream.range(0,10_000_000).toArray();
         int index=0;
